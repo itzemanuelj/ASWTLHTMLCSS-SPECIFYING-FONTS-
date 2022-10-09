@@ -1,0 +1,83 @@
+/* 1. What are the last 4 characters of a file that contains nothing but statements like this? */
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+/* .css */
+
+/* 2. Type the first 3 characters of CSS code that specifies styling for paragraphs. */
+p {
+    color:aqua;
+}
+/* 3. Type the first four characters of CSS code that specifies styling for the smallest heading. */
+h6 {
+    color: red solid 2px;
+}
+/* code onto the screen to style paragraphs. Tahoma is the first font in the stack */
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* 6. Click in the box and type the next character. I'll autocomplete. Don't type spaces or carriage returns. When the exercise is complete, I'll turn the exercise number green. */
+
+/* Style paragraphs. The font stack is Verdana, Geneva, sans-serif. */
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Style the largest heading. The font stack is Arial, Helvetica, sans-serif. */
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+}
+/* 8. Write the second line of styling code that specifies Tahoma, Geneva, and sans-serif as the font stack. Don't bother to indent. */
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* 9. Write all three lines of styling code for paragraphs that specify Times New Roman, Times, and serif as the font stack. Don't forget the rule about font names that contain spaces. */
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+/* 10. Write all three lines of styling code for the second-largest heading that specify Verdana, Geneva, and sans-serif as the font stack. */
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* 12. If the first font in a font stack is Times, what is the last font in the stack, typically? */
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+/* 13. Time goal: 55 seconds. Style the largest heading. The font stack is Arial, Helvetica, sans-serif. */
+h1 {
+    font-family: Arial, Helvetica, sans-serif
+}
+/* 14. Time goal: 30 seconds. Write the second line of styling code that specifies Tahoma, Geneva, and sans-serif as the font stack. Don't bother to indent. */
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* 15. Time goal: 60 seconds. Write all three lines of styling code for paragraphs that specify Times New Roman, Times, and serif as the font stack. Don't forget the rule about font names that contain spaces. */
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+/* 16. Time goal: 60 seconds. Write all three lines of styling code for the second-largest heading that specify Verdana, Geneva, and sans-serif as the font stack. */
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+/* 18. Time goal: 10 seconds. If the first font in a font stack is Times, what is the last font in the stack, typically */
+p {
+    font-family:'Times New Roman', Times, serif
+}
+/*
+The slash-star and star-slash tags that begin and end this section
+make it invisible to the browser. Don't delete these comment tags or this text.
+Choose from the following 3 font stacks to style
+both the heading and the paragraph:
+"Arial Black", Gadget, sans-serif;
+Verdana, Geneva, sans-serif;
+"Courier New", Courier, monospace;
+Start coding on line 15 of this pane.
+Click "Run" to see the result.
+Try different combinations of font stacks.
+(Find a copy of the completed assignment at http://jsfiddle.net/ASmarterWayToLearn/pv01zpw4/)
+*/
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
